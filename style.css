@@ -48,7 +48,7 @@ p {
   transform: translateY(10px);
   align-items: baseline;
 }
-.menu {
+menu {
   width: 488px;
 }
 .start__flex {
