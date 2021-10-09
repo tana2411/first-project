@@ -150,6 +150,7 @@ h4 {
   color: #a665fb;
   background: rgba(166, 101, 251, 0.06);
 }
+
 @media screen and (width: 280px), (heigh: 653px) {
   .tables__2 {
     display: none;
@@ -264,11 +265,7 @@ h4 {
     display: none;
   }
 }
-@media screen and (width: 1024px), (height: 1366px) {
-  .header {
-    height: 60vh;
-  }
-}
+
 @media screen and (min-width: 360px) and (max-width: 767px) {
   .show_activity {
     margin-top: 40px;
@@ -282,7 +279,7 @@ h4 {
     height: 80vh !important;
   }
   .header__content {
-    margin: 0 auto;
+    margin: 43px auto 0 auto;
   }
   .tables__2 {
     margin: 12px auto;
@@ -345,14 +342,7 @@ h4 {
     margin-top: 317px;
   }
 }
-@media screen and (width: 1024px) and (height: 1366px) {
-  .header {
-    height: 60vh !important;
-  }
-  .test {
-    margin-top: 0 !important;
-  }
-}
+
 .area1 {
   height: 500px;
   background-color: #f8fbfe;
